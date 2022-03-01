@@ -1,0 +1,30 @@
+body {
+background:#556B2F;
+margin-left:5vw;
+margin-right:5vw;
+padding-right:2vw;
+padding-left:2vw;
+text-indent:2vw;
+font-size:20pt;
+}
+html{
+background:url('Рисунок15.jpg');
+}
+nav{
+align-items: center;
+display: flex;
+
+
+}
+nav a{
+background:#FF4500;
+padding:10px;
+color:#556B2F;
+font-size:30pt;
+text-decoration:none;
+margin:2vw;
+}
+nav a:hover{
+background:#8A2BE2;
+color:#FFFFFF;
+}
